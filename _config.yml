@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Emily T. Winn-Nuñez"
-  avatar           : "profile.png"
+  avatar           : "DSC_3232.jpg"
   bio              : "I'm a PhD candidate in Applied Mathematics at Brown University working on my dissertation under Dr. Lorin Crawford. My research interests include nonlinear 
                        nonparametric variable selection models, shape statistics, and topological data analysis."
   location         : "New York City"
@@ -103,8 +103,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/emily-winn-math/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6759-5406"
   pinterest        :
   soundcloud       :
   stackoverflow    :
