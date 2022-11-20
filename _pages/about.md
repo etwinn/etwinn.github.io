@@ -1,14 +1,12 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About Me"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-About Me
-======
 This website is under construction and will soon be fully up to date with all of my info!
 
 I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Student in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at [Brown University](https://www.brown.edu/). I am working under [Dr. Lorin Crawford](http://www.lcrawlab.com/) as a member of his lab. I expect to graduate in Fall 2023 and plan to pursue a career in data analytics.
