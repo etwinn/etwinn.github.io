@@ -187,6 +187,12 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
+  gre-database:
+    output: true
+    permalink: /:collection/:path/
+  personal:
+    output: true
+    permalink: /:collection/:path/
 
 
 # Defaults
