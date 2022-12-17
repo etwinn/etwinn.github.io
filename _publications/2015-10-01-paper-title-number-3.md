@@ -1,15 +1,12 @@
 ---
-title: "Paper Title Number 3"
+title: "Using antagonistic pleiotropy to design a chemotherapy-induced evolutionary trap to target drug resistance in cancer"
 collection: publications
-permalink: /publication/2015-10-01-paper-title-number-3
-excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
+permalink: /publication/nature2020
 date: 2015-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper3.pdf'
-citation: 'Your Name, You. (2015). &quot;Paper Title Number 3.&quot; <i>Journal 1</i>. 1(3).'
+venue: 'Nature Genetics'
+citation: 'K. Lin, J. Rutter , A. Xie, E. T. Winn, B. Pardieu, R. Del Bello, R. Itzykson, Y-R Ahn, Z. Dai, R. Sobhan, G. Anderson, K. Singleton, A. Decker, P. Winter, J. Locasale, L. Crawford, #A. Puissant, #K. Wood. Using antagonistic pleiotropy to design a chemotherapy induced evolutionary trap.; <i>Nature Genetics</i>. v. 52, 408-417, Apr. 2020.'
 ---
-This paper is about the number 3. The number 4 is left for future work.
 
-[Download paper here](http://academicpages.github.io/files/paper3.pdf)
+[Link](https://www.nature.com/articles/s41588-020-0590-9)
 
-Recommended citation: Your Name, You. (2015). "Paper Title Number 3." <i>Journal 1</i>. 1(3).
+Recommended citation: K. Lin, J. Rutter , A. Xie, E. T. Winn, B. Pardieu, R. Del Bello, R. Itzykson, Y-R Ahn, Z. Dai, R. Sobhan, G. Anderson, K. Singleton, A. Decker, P. Winter, J. Locasale, L. Crawford, #A. Puissant, #K. Wood. Using antagonistic pleiotropy to design a chemotherapy induced evolutionary trap. <i> Nature Genetics </i>, v. 52, 408-417, Apr. 2020.
