@@ -8,6 +8,6 @@ paperurl: 'http://academicpages.github.io/files/TwistedTorusLink2017.pdf'
 citation: 'M. S. Berry, V. Diaz, B. Doleshal, T. Martin, # E. T. Winn, and M. Zhou. The component number of a twisted torus link. <i>Minnesota Journal of Undergraduate Mathematics</i>. , S.l., v. 2, n. 1, Apr. 2017. ISSN 2378-5810'
 ---
 
-[Download paper here](http://academicpages.github.io/files/twisted.pdf)
+[Paper PDF](http://etwinn.github.io/files/twisted.pdf)
 
 Recommended citation: M. S. Berry, V. Diaz, B. Doleshal, T. Martin, # E. T. Winn, and M. Zhou. The component number of a twisted torus link. <i>Minnesota Journal of Undergraduate Mathematics</i>, S.l., v. 2, n. 1, Apr. 2017. ISSN 2378-5810.
