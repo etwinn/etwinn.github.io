@@ -1,15 +1,14 @@
 ---
-title: "Paper Title Number 2"
+title: "Topological Modeling of Force Networks in Granular Materials"
 collection: publications
-permalink: /publication/2010-10-01-paper-title-number-2
-excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
-date: 2010-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper2.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
+permalink: /publication/Thesis.pdf
+date: 2017-05-16
+venue: 'College of the Holy Cross'
+paperurl: 'http://academicpages.github.io/files/Thesis.pdf'
+citation: 'Topological Modeling of Force Networks in Granular Materials. Emily T. Winn. College of the Holy Cross (2017).'
 ---
-This paper is about the number 2. The number 3 is left for future work.
+This is my Mathematics Honors Thesis from my senior year at the College of the Holy Cross.
 
-[Download paper here](http://academicpages.github.io/files/paper2.pdf)
+[Download paper here](http://academicpages.github.io/files/Thesis.pdf)
 
-Recommended citation: Your Name, You. (2010). "Paper Title Number 2." <i>Journal 1</i>. 1(2).
+Recommended citation: Topological Modeling of Force Networks in Granular Materials. Emily T. Winn. College of the Holy Cross (2017).
