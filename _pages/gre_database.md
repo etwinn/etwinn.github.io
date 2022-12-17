@@ -1,11 +1,10 @@
 ---
-permalink: /gre-database
+layout: archive
+permalink: /gre-database/
 title: "Graduate Math Program GRE Requirements and Qualifying Exam Practices"
 excerpt: "This page serves as a link to the spreadsheet regarding GRE policies for mathematics PhD programs in the US and Canada, as well as a survey about
 qualifying exams conducted in Spring 2021 and work around that."
 author_profile: true
-redirect_from: 
-  - /gre-database.html
 ---
 
 # [GRE Database](https://docs.google.com/spreadsheets/d/1hmdO7af3-lLvtJQO-szayG6blTvAYBQ1JcYXFZ_6apE/edit#gid=0)
