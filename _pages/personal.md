@@ -1,4 +1,5 @@
 ---
+layout: archive
 permalink: /personal/
 title: "Personal"
 excerpt: "The page for all miscellaneous, non-math things."
