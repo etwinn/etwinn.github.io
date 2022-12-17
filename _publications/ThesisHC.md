@@ -10,5 +10,3 @@ citation: 'Topological Modeling of Force Networks in Granular Materials. Emily T
 This is my Mathematics Honors Thesis from my senior year at the College of the Holy Cross.
 
 [PDF thesis](http://etwinn.github.io/files/Thesis.pdf)
-
-Recommended citation: Topological Modeling of Force Networks in Granular Materials. Emily T. Winn. College of the Holy Cross (2017).
