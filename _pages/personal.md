@@ -1,5 +1,5 @@
 ---
-permalink: /
+permalink: /personal/
 title: "Personal"
 excerpt: "The page for all miscellaneous, non-math things."
 author_profile: true
