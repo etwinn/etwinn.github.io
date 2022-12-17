@@ -82,8 +82,7 @@ analytics:
 author:
   name             : "Emily T. Winn-Nuñez"
   avatar           : "DSC_3232.jpg"
-  bio              : "I'm a PhD candidate in Applied Mathematics at Brown University working on my dissertation under Dr. Lorin Crawford. My research interests include nonlinear 
-                       nonparametric variable selection models, shape statistics, and topological data analysis."
+  bio              : "PhD candidate in Applied Mathematics at Brown University"
   location         : "New York City"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
