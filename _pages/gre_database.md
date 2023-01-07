@@ -24,4 +24,10 @@ Special thanks to Tim McEldowney, Jessica Deshler, Justin Lanier, Rick Laugesen,
 
 And as a bonus...
 
-I gave a talk at GAIN 2021 on how to rethink your qualifying exams. You can view the slides here, and the video of the presentation here! (Links to come while website under construction)
+I gave a talk at GAIN 2021 on how to rethink your qualifying exams. You can view the slides [here](https://etwinn.github.io/files/Rethinking-quals-updated.pdf).
+
+# Other Education Resources
+
+I no longer have a former teaching page, so this page is home to two resources for students in undergraduate mathematics who are navigating proof based mathematics courses:
+* [How to Write a Mathematics Proof](https://etwinn.github.io/files/good-math-writing.pdf) by Prof. Francis Su
+* [How to Study for a Math Exam](https://etwinn.github.io/files/How-to-study-for-math-exam.pdf)
