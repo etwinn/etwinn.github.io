@@ -29,5 +29,5 @@ I gave a talk at GAIN 2021 on how to rethink your qualifying exams. You can view
 # Other Education Resources
 
 I no longer have a former teaching page, so this page is home to two resources for students in undergraduate mathematics who are navigating proof based mathematics courses:
-* [How to Write a Mathematics Proof](https://etwinn.github.io/files/good-math-writing.pdf) by Prof. Francis Su
+* [How to Write a Mathematics Proof](https://etwinn.github.io/files/good-math-writing_Francis_Su.pdf) by Prof. Francis Su
 * [How to Study for a Math Exam](https://etwinn.github.io/files/How-to-study-for-math-exam.pdf)
