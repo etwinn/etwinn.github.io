@@ -9,5 +9,4 @@ citation: 'K. Lin, J. Rutter , A. Xie, E. T. Winn, B. Pardieu, R. Del Bello, R. 
 A. Decker, P. Winter, J. Locasale, L. Crawford, #A. Puissant, #K. Wood. Using antagonistic pleiotropy to design a chemotherapy induced evolutionary trap
 <i> Nature Genetics <i\>, v. 52, 408-417, Apr. 2020.'
 ---
-
 [Paper Link](https://www.nature.com/articles/s41588-020-0590-9)
