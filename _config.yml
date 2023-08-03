@@ -63,12 +63,6 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
-mastodon:
-  username               : etwn
-  instance               : mathstodon.xyz
-bluesky:
-  username               : etwn13
-  instance               : bsky.social
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -109,7 +103,6 @@ author:
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/emily-winn-math/"
-  mastadon         : "etwn@mathstodon.xyz"
   orcid            : "https://orcid.org/my-orcid?orcid=0000-0001-6759-5406"
   pinterest        :
   soundcloud       :
@@ -117,7 +110,6 @@ author:
   steam            :
   tumblr           :
   twitter          : "EmilyTWinn13"
-  bluesky          : "etwn13@bsky.social"
   vine             :
   weibo            :
   xing             :
