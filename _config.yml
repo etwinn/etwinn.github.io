@@ -63,10 +63,10 @@ facebook:
   app_id                 :
   publisher              :
 og_image                 :  # Open Graph/Twitter default site image
-mastodon                 :
+mastodon:
   username               : etwn
   instance               : mathstodon.xyz
-bluesky                  :
+bluesky:
   username               : etwn13
   instance               : bsky.social
 # For specifying social profiles
