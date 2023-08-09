@@ -1,5 +1,5 @@
 ---
-title: "A probabilistic method for generating &alpha-shapes"
+title: "A probabilistic method for generating α-shapes"
 collection: talks
 type: "Talk"
 permalink: /talks/jsm23
