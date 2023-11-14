@@ -13,14 +13,14 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 
 ## My research interests include:
 <div>
-  <img src="/images/teeth_gen.png", alt="Mesh of 3D scan of generated Microcebus mandibular molar", width=300px>
+</br><img src="/images/teeth_gen.png">
   <span> Shape statistics, statistical topology. </span>
 </div>
 <div>
-  <img src="/images/GOALS_split_sim.png", alt="Local distribution of GOALS value for individual simulated data for select features.", width = 300px>
+  <img src="/images/GOALS_split_sim.png">
   <span> Variable selection in high dimensional data with global and local interpretability </span>
 </div>
 <div>
-  <img src="/images/combined_plot_correctscale.png", alt="KMapper visualization of pediatric obstructive sleep apnea data.", width=300px>
+  <img src="/images/combined_plot_correctscale.png">
   <span> Data analysis and visualization via topological data analysis. </span>
 </div>
