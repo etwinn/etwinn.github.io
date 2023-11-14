@@ -12,12 +12,12 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 [CV](https://etwinn.github.io/files/ETWN_CV_Nov2023.pdf){: .btn}     [Resume](https://etwinn.github.io/files/ETWN_resume_Nov2023.pdf){: .btn}
 
 ## My research interests include:
-<div>
-<div>
+<div style="clear: both;">
+<div style="float: left; margin-right 1em;">
 <img src="/images/teeth_gen.png" alt = "Two scans Microcebus mandibular molars, one real (blue) and one generated (gray)." >
 </div>
 <div>
-  <h2> Shape statistics, statistical topology. </h2>
+  <h3> Shape statistics, statistical topology. </h3>
   <p> What if the data we want to analyze is not a vector, but a set of shapes? As imaging technology improves in two and three dimensions, I seek to develop and adapt tools from statistics and machine learning to handle shapes. </p>
 </div>
 </div>
