@@ -13,14 +13,20 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 
 ## My research interests include:
 <div>
-</br><img src="/images/teeth_gen.png">
-  <span> Shape statistics, statistical topology. </span>
+<div>
+<img src="/images/teeth_gen.png" alt = "Two scans Microcebus mandibular molars, one real (blue) and one generated (gray)." >
 </div>
 <div>
-  <img src="/images/GOALS_split_sim.png">
+  <h2> Shape statistics, statistical topology. </h2>
+  <p> What if the data we want to analyze is not a vector, but a set of shapes? As imaging technology improves in two and three dimensions, I seek to develop and adapt tools from statistics and machine learning to handle shapes. </p>
+</div>
+</div>
+
+<div>
+  <img src="/images/GOALS_split_sim.png" alt = "Plot of local GOALS scores for individual datum over select features.">
   <span> Variable selection in high dimensional data with global and local interpretability </span>
 </div>
 <div>
-  <img src="/images/combined_plot_correctscale.png">
+  <img src="/images/combined_plot_correctscale.png" alt = "KMapper visualization for pediatric Obstructive Sleep Apnea data.">
   <span> Data analysis and visualization via topological data analysis. </span>
 </div>
