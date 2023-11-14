@@ -13,7 +13,7 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 
 ## My research interests include:
 <div>
-  <img src="/images/new_m_1.png", alt="Mesh of 3D scan of generated Microcebus mandibular molar", width=300px>
+  <img src="/images/teeth_gen.png", alt="Mesh of 3D scan of generated Microcebus mandibular molar", width=300px>
   <span> Shape statistics, statistical topology. </span>
 </div>
 <div>
