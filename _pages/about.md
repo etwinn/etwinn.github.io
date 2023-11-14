@@ -11,7 +11,7 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 
 [CV](https://etwinn.github.io/files/ETWN_CV_Nov2023.pdf){: .btn}     [Resume](https://etwinn.github.io/files/ETWN_resume_Nov2023.pdf){: .btn}
 
-##My research interests include:
+## My research interests include:
 <div>
   <img src="https://etwinn.github.io/images/new_m_1.png", alt="Mesh of 3D scan of generated Microcebus mandibular molar", width=300>
   <span> Shape statistics, statistical topology. </span>
