@@ -13,7 +13,7 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 
 ## My research interests include:
 <div style="clear: both;">
-<div style="float: left; margin-right 1em;">
+<div style="float: left; margin-right 3em;">
 <img src="/images/teeth_gen.png" alt = "Two scans Microcebus mandibular molars, one real (blue) and one generated (gray)." >
 </div>
 <div>
@@ -22,11 +22,22 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 </div>
 </div>
 
-<div>
+<div style="clear: both;">
+<div style="float: left; margin-right 3em;">
   <img src="/images/GOALS_split_sim.png" alt = "Plot of local GOALS scores for individual datum over select features.">
-  <span> Variable selection in high dimensional data with global and local interpretability </span>
 </div>
 <div>
+  <h3> Variable Selection, Interpretable Models </h3>
+  <p> Variable selection in high dimensional data with global and local interpretability </p>
+</div>
+</div>
+
+<div ="clear: both;">
+<div style="float: left; margin-right 3em;">
   <img src="/images/combined_plot_correctscale.png" alt = "KMapper visualization for pediatric Obstructive Sleep Apnea data.">
-  <span> Data analysis and visualization via topological data analysis. </span>
+</div>
+  <div>
+    <h3> Complex, High Dimensional Data Analysis, Visualization </h3>
+    <p> Linear regression is a fantastic tool, except when there are a high number of features, and those features have nonlinear relationships. </p>
+  </div>
 </div>
