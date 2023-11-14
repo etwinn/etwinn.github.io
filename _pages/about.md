@@ -9,10 +9,10 @@ redirect_from:
 ---
 I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Student in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at [Brown University](https://www.brown.edu/). I am working under [Dr. Lorin Crawford](http://www.lcrawlab.com/) as a member of his lab. I expect to graduate in May 2024 and plan to pursue a career in data analytics.
 
-[CV](https://etwinn.github.io/files/ETWN_CV_Nov2023.pdf){: .btn}     [Resume](https://etwinn.github.io/files/ETWN_resume_Nov2023.pdf){: .btn}
+[CV](https://etwinn.github.io/files/ETWN_CV_Nov2023.pdf)     [Resume](https://etwinn.github.io/files/ETWN_resume_Nov2023.pdf)
 
 ## My research interests include:
-<div style="clear: both; margin-bottom:1cm;">
+<div style="clear: both; margin-bottom:2cm;">
 <div style="float: left; margin-right: 2em;">
 <img src="/images/teeth_gen.png" alt = "Two scans Microcebus mandibular molars, one real (blue) and one generated (gray)." >
 </div>
