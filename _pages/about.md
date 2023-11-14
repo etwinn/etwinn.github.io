@@ -11,7 +11,16 @@ I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Stude
 
 [CV](https://etwinn.github.io/files/ETWN_CV_Nov2023.pdf){: .btn}     [Resume](https://etwinn.github.io/files/ETWN_resume_Nov2023.pdf){: .btn}
 
-My research interests include:
-* shape statistics, topological data analysis
-* developing interpretable methods for machine learning
-* variable selection in high dimensional or unconvential data
+##My research interests include:
+<div>
+  <img src="https://etwinn.github.io/images/new_m_1.png", alt="Mesh of 3D scan of generated Microcebus mandibular molar", width=300>
+  <span> Shape statistics, statistical topology. </span>
+</div>
+<div>
+  <img src="https://etwinn.github.io/images/GOALS_split_sim.png", alt="Local distribution of GOALS value for individual simulated data for select features.", width = 300>
+  <span> Variable selection in high dimensional data with global and local interpretability </span>
+</div>
+<div>
+  <img src="https://etwinn.github.io/images/combined_plot_correctscale.png", alt="KMapper visualization of pediatric obstructive sleep apnea data.", width=300>
+  <span> Data analysis and visualization via topological data analysis. </span>
+</div>
