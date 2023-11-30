@@ -7,6 +7,8 @@ redirect_from:
   - /about/
   - /about.html
 ---
+*Update: I will soon be scheduling my defense for January/February 2024. I am currently on the job market and will be available to start employment Feburary/March 2024.*
+
 I am an [NSF Graduate Research Fellow](https://www.nsfgrfp.org/) and a PhD Student in the [Division of Applied Mathematics](https://appliedmath.brown.edu/) at [Brown University](https://www.brown.edu/). I am working under [Dr. Lorin Crawford](http://www.lcrawlab.com/) as a member of his lab. I expect to graduate in May 2024 and plan to pursue a career in data analytics.
 
 [CV](https://etwinn.github.io/files/ETWN_CVNov23.pdf){: .btn}  [Resume](https://etwinn.github.io/files/ETWN_resumeNov23.pdf){: .btn}
